@@ -38,7 +38,7 @@ By clicking on the link above, you can experience the DXD App Menu with Lock Scr
 1. Clone the repository or download the ZIP file.
 
 ```bash
-git clone https://dhrub006.github.io/DurgaPujoCountdownClock.git
+git clone https://github.com/DHRUB006/DurgaPujoCountdownClock.git
 ```
 
 ---

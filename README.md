@@ -1,6 +1,6 @@
 # DurgaPujoCountdownClock
 
-# DXD - Durga Pujo Countdown Timer!
+** DXD - Durga Pujo Countdown Timer!
 
 A stunning animated countdown timer for Durga Pujo celebration. This project uses HTML, CSS, and JavaScript to create an interactive countdown. Additionally, there is a link to the developer's Instagram handle that is animated and positioned at the bottom right corner.
 

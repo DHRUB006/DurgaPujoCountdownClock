@@ -2,7 +2,7 @@
 
 A stunning animated countdown timer for Durga Pujo celebration. This project uses HTML, CSS, and JavaScript to create an interactive countdown. Additionally, there is a link to the developer's Instagram handle that is animated and positioned at the bottom right corner.
 
-![DXD - Durga Pujo Countdown Timer](path_to_image.png)
+![DXD - Durga Pujo Countdown Timer](https://iili.io/J3zOW4n.png)
 
 ## Table of Contents
 - [Demo](#demo)
@@ -18,7 +18,9 @@ A stunning animated countdown timer for Durga Pujo celebration. This project use
 
 ## Demo
 
-[View Demo](link_to_demo)
+[View Live Demo](https://dhrub006.github.io/DurgaPujoCountdownClock/)
+
+By clicking on the link above, you can experience the DXD App Menu with Lock Screen in action.
 
 ---
 
@@ -36,7 +38,7 @@ A stunning animated countdown timer for Durga Pujo celebration. This project use
 1. Clone the repository or download the ZIP file.
 
 ```bash
-git clone https://github.com/yourusername/DXD-Durga-Pujo-Countdown.git
+git clone https://dhrub006.github.io/DurgaPujoCountdownClock.git
 ```
 
 ---
@@ -63,7 +65,7 @@ You can customize various aspects of the countdown timer by modifying the provid
 
 ## Developer's Instagram Link
 
-The developer's Instagram link is added to the project with JavaScript. It is located at the bottom right corner of the page. When clicked, it redirects to [https://www.instagram.com/dhrubajyoti.official/](https://www.instagram.com/dhrubajyoti.official/).
+The developer's Instagram link is added to the project with JavaScript. It is located at the bottom right corner of the page. When clicked, it redirects to [dhrubajyoti.official](https://www.instagram.com/dhrubajyoti.official/).
 
 ---
 
@@ -75,7 +77,7 @@ If you'd like to contribute, please fork the repository and then create a pull r
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://tx.me/DHRUBDXD).
 
 ---
 
